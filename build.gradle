@@ -10,7 +10,10 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.jetbrains.kotlin:kotlin-test'
+    testImplementation (
+            'org.junit.jupiter:junit-jupiter:5.9.0',
+            'org.assertj:assertj-core:3.23.1'
+    )
 }
 
 test {
