@@ -1,4 +1,4 @@
-package com.github.lsj8367
+package com.github.lsj8367.section1
 
 import org.assertj.core.api.Assertions.assertThatExceptionOfType
 import org.junit.jupiter.api.Test
