@@ -1,4 +1,4 @@
-package com.github.lsj8367.example1
+package com.github.lsj8367.section1
 
 fun main() {
 
